@@ -1,34 +1,19 @@
 <template>
-    <div>
-        <header>
-            <nav>
-                <NuxtLink to="/">Nuxt3</NuxtLink>
-                <ul>
-                    <li>
-                        <NuxtLink to="/">Home</NuxtLink>
-                    </li>
-                    <li>
-                        <NuxtLink to="/about">About</NuxtLink>
-                    </li>
-                    <li>
-                        <NuxtLink to="/products">Products</NuxtLink>
-                    </li>
-                </ul>
-            </nav>
-        </header>
-
-        <h2>About</h2>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut ut, cum similique, officia expedita provident dicta, suscipit necessitatibus deserunt dolorum nostrum? Totam, deserunt recusandae a nihil debitis maiores voluptatum reiciendis!</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus dolores quia sequi repellat odit sunt obcaecati earum laboriosam accusamus dolor suscipit atque rerum voluptatum, alias quod autem ullam ipsum temporibus!</p>
-    </div>
+  <div>
+    <h2>About</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet aperiam minima unde nemo harum quam maxime optio quos corrupti. Eum sapiente facere nemo, laborum ullam non cum fuga quas eveniet harum molestiae minus atque vel ratione illo quia, iure commodi dicta porro excepturi quam. Facere, commodi corrupti ipsam neque totam reprehenderit laboriosam laborum veniam est quo, repellat saepe impedit labore?</p>
+  </div>
 </template>
 
+<script setup>
+</script>
+
 <style scoped>
-h2 {
+  h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-p {
+  }
+  p {
     margin: 20px 0;
-}
+  }
 </style>
